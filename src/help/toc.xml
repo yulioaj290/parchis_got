@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc version="1.0">
+	<tocitem text="Parchís" target="Introduction">
+		<tocitem text="Generalities" target="Generalities"/>
+		<tocitem text="Game generalities" target="Game_generalities"/>
+		<tocitem text="Begin of the game" target="Begin_game"/>
+		<tocitem text="Movements" target="Moves"/>
+		<tocitem text="Barriers" target="Barriers"/>
+		<tocitem text="Catches" target="Catch"/>
+		<tocitem text="End of game" target="End_game"/>
+	</tocitem>
+</toc> 
