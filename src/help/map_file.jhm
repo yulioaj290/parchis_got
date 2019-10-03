@@ -3,7 +3,6 @@
 PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN"
 "http://java.sun.com/products/javahelp/map_2_0.dtd">
 <map version="1.0">
-   <mapID target="Introduction" url="html/main.html" />
    <mapID target="Generalities" url="html/generalities.html" />
    <mapID target="Game_generalities" url="html/game_generalities.html" />
    <mapID target="Begin_game" url="html/begin.html" />
