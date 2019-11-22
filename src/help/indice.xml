@@ -3,7 +3,6 @@
 	  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
 	  "http://java.sun.com/products/javahelp/index_1_0.dtd">
 <index version="1.0">
-	<indexitem text="Introduction" target="Introduction"/>
 	<indexitem text="Generalities" target="Generalities"/>
 	<indexitem text="Game generalities" target="Game_generalities"/>
 	<indexitem text="Begin of the game" target="Begin_game"/>
