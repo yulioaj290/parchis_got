@@ -4,6 +4,8 @@ Parchis Game inspired by Game of Thrones
 
 ![Credits](/src/Images/Backs/Creditos.jpg)
 
+![Preview](/src/Images/preview_speed.gif)
+
 
 ## Houses
 
