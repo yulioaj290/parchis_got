@@ -7,6 +7,11 @@ Parchis Game inspired by Game of Thrones
 ![Preview](/src/Images/preview_speed.gif)
 
 
+## Buy me a Coffee!
+Do you like the game, then just...
+
+[![ko-fi](https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d503cc13747866d338b_Button-2-p-500.png)](https://ko-fi.com/I3I6E2IVO)
+
 ## Houses
 
 House|Slogan|Banner|Token
